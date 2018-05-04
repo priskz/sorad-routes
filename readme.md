@@ -10,7 +10,7 @@ Add the following to your "require" schema:
 
 ```
 "require": {
-     "priskz/sorad-routes": "~0.0.1"
+     "priskz/sorad-routes": "~0.1.0"
 }
 ```
 
