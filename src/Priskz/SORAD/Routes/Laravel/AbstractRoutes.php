@@ -1,4 +1,6 @@
-<?php namespace Priskz\SORAD\Routes\Laravel;
+<?php
+
+namespace Priskz\SORAD\Routes\Laravel;
 
 use Exception;
 use Illuminate\Support\Facades\Route;
